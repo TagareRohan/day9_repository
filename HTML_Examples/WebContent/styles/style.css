@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+h1
+{
+	text-align: center;
+	color: #FF0000;
+}
+
+.center
+{
+	text-align: center;
+}
+
+table
+{
+	border: 1px solid #0000FF;
+	border-collapse: collapse;
+	margin-left: 0;
+	margin-right: 0;
+	
+}
+
+tr,td,th
+{
+	border: 1px solid #0000FF;
+}
+
+ul>li
+{
+	display: inline;
+	margin: 10px;
+}
+
+.registerClass
+{
+	text-align: center;
+	color: #0000FF;
+}
